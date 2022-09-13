@@ -4,22 +4,25 @@ Why is it important to understand machine learning? Many machine learning techni
 
 What you'll learn—and how you can apply it
 
-By the end of this course, you’ll understand:
+* By the end of this course, you’ll understand:
 
-What machine learning is and the various algorithms under its umbrella
-How regression and classification techniques work, from linear regression to neural networks 
-The API patterns of scikit-learn
+* What machine learning is and the various algorithms under its umbrella
+
+* How regression and classification techniques work, from linear regression to neural networks 
+
+* The API patterns of scikit-learn
+
 And you'll be able to:
 
-Use scikit-learn to make predictions on different types of problems, from email spam to image recognition 
+* Use scikit-learn to make predictions on different types of problems, from email spam to image recognition 
 Pair the proper application of supervised machine learning algorithms to a given problem and context appropriately
 Explain how different machine learning algorithms work, including decision trees and neural networks
 This training is for you because...
 
-You’re a data science professional wanting to learn about ML and how it works.
+* You’re a data science professional wanting to learn about ML and how it works.
 You work with data science teams and want to understand their ML capabilities.
 You want to become a machine learning or data engineer and want to take the first step in that career path
 Prerequisites
 
-Basic proficiency with Python (variables, loops, installing and importing packages, collections, list comprehensions, declaring NumPy arrays).
+* Basic proficiency with Python (variables, loops, installing and importing packages, collections, list comprehensions, declaring NumPy arrays).
 
